@@ -20,7 +20,7 @@ function nowServing (katzDeliLine){
   	  }
   	  var otherDeli = []
   	 for(var i=0; i < katzDeliLine.length; i++){
-       
+
 
         otherDeli.push(i+1 + ". "+ katzDeliLine[i])
       }
